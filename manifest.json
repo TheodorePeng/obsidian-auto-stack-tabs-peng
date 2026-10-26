@@ -1,7 +1,7 @@
 {
   "id": "auto-stack-tabs-peng",
   "name": "Auto Stack Tabs Peng",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minAppVersion": "1.13.7",
   "description": "Stack editor tab groups once when a desktop Obsidian window initializes, while leaving later layout choices to you.",
   "author": "Peng",

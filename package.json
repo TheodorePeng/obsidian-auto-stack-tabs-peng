@@ -1,6 +1,6 @@
 {
   "name": "auto-stack-tabs-peng",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "description": "Initialize Obsidian editor tab groups as stacked without enforcing the layout afterward.",
   "main": "main.js",
